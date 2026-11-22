@@ -1,0 +1,10 @@
+{
+  "name": "DYNKORA Pickleball",
+  "short_name": "DYNKORA",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#081521",
+  "theme_color": "#081521",
+  "description": "Book. Play. Compete.",
+  "icons": []
+}
